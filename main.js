@@ -9,9 +9,9 @@ class Desserts {
         super(flavor, scoops)
         this.flavor
         this.scoops
-        includeSpoon() {
+        includeSpoon() 
             console.log("Here is your spoon")
         }
     }
-}
+
 
